@@ -1,0 +1,10 @@
+#header{
+    background-color: #2e9b2e !important;
+    color: #0f2a74 !important;
+    box-shadow: 0px 0px 3px 0px #ff0000;
+
+}
+
+#header a:link, #header a:visited{
+    color: rgb(184, 37, 197) !important;
+}
